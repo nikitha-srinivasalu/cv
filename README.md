@@ -9,4 +9,4 @@ documents and information accessible and organized.
 ### Education
 Engineering in Information Science
 - Acharya Institute, India
-- 
+
